@@ -21,7 +21,7 @@ The course covers a range of fundamental and advanced topics in JavaScript, HTML
 ### - 07-Pig-Game:
   - A small course project where I learned a little about DOM
 ### - 08-Behind-the-Scenes:
-  - provides a comprehensive look at how javascript works "behind the scenes". Talks about functions and scope, object manipulation, references and data types.
+  - Provides a comprehensive look at how javascript works "behind the scenes". Talks about functions and scope, short circuiting, heap and call stack in javascript, object manipulation, references and data types.
 Crucial fundamentals for developing robust and efficient JavaScript applications.
 ### - 09-Data-Strutures-Operators
   - In this section I learned about destructuring arrays and objects, spread and rest operators, the difference between Arrys or sets, Objects or Maps and string formatting
